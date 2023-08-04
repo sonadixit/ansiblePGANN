@@ -1,0 +1,7 @@
+
+- hosts: prom_server
+  roles: 
+    - role: monitoring_setup.role
+   
+  
+
